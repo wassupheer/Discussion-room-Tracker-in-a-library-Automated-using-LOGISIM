@@ -428,159 +428,167 @@ This file is intended to be loaded by Logisim (http://www.cburch.com/logisim/).
     <wire from="(590,660)" to="(600,660)"/>
     <wire from="(640,310)" to="(650,310)"/>
     <wire from="(640,150)" to="(650,150)"/>
-    <comp lib="4" loc="(200,270)" name="D Flip-Flop"/>
-    <comp lib="1" loc="(260,130)" name="NOT Gate">
-      <a name="label" val="FREE9"/>
-    </comp>
-    <comp lib="1" loc="(110,480)" name="AND Gate">
-      <a name="inputs" val="2"/>
-    </comp>
-    <comp lib="1" loc="(340,360)" name="OR Gate">
-      <a name="inputs" val="2"/>
-    </comp>
-    <comp lib="5" loc="(790,150)" name="LED"/>
-    <comp lib="1" loc="(400,290)" name="NOT Gate"/>
-    <comp lib="1" loc="(260,480)" name="NOT Gate"/>
-    <comp lib="5" loc="(790,780)" name="LED"/>
-    <comp lib="1" loc="(340,570)" name="OR Gate">
-      <a name="inputs" val="2"/>
-    </comp>
-    <comp lib="1" loc="(1090,110)" name="NOT Gate"/>
-    <comp lib="4" loc="(640,710)" name="D Flip-Flop"/>
-    <comp lib="5" loc="(790,360)" name="LED"/>
-    <comp lib="1" loc="(340,640)" name="OR Gate">
-      <a name="inputs" val="2"/>
-    </comp>
-    <comp lib="5" loc="(790,220)" name="LED"/>
-    <comp lib="1" loc="(970,110)" name="OR Gate">
-      <a name="inputs" val="10"/>
-    </comp>
-    <comp lib="4" loc="(640,570)" name="D Flip-Flop"/>
-    <comp lib="5" loc="(790,500)" name="LED"/>
-    <comp lib="1" loc="(500,360)" name="AND Gate">
-      <a name="inputs" val="3"/>
-      <a name="label" val="ASSIGN6"/>
-    </comp>
-    <comp lib="5" loc="(790,290)" name="LED"/>
-    <comp lib="1" loc="(110,270)" name="AND Gate">
-      <a name="inputs" val="2"/>
-    </comp>
-    <comp lib="1" loc="(500,430)" name="AND Gate">
-      <a name="inputs" val="3"/>
-      <a name="label" val="ASSIGN5"/>
-    </comp>
-    <comp lib="1" loc="(340,710)" name="OR Gate">
-      <a name="inputs" val="2"/>
-    </comp>
-    <comp lib="4" loc="(200,550)" name="D Flip-Flop"/>
-    <comp lib="1" loc="(400,220)" name="NOT Gate"/>
-    <comp lib="5" loc="(790,570)" name="LED"/>
-    <comp lib="1" loc="(500,570)" name="AND Gate">
-      <a name="inputs" val="3"/>
-      <a name="label" val="ASSIGN3"/>
-    </comp>
+    <comp lib="1" loc="(400,360)" name="NOT Gate"/>
     <comp lib="1" loc="(500,500)" name="AND Gate">
       <a name="inputs" val="3"/>
       <a name="label" val="ASSIGN4"/>
     </comp>
-    <comp lib="1" loc="(340,290)" name="OR Gate">
-      <a name="inputs" val="2"/>
-    </comp>
-    <comp lib="4" loc="(200,410)" name="D Flip-Flop"/>
-    <comp lib="4" loc="(640,640)" name="D Flip-Flop"/>
-    <comp lib="1" loc="(400,360)" name="NOT Gate"/>
-    <comp lib="5" loc="(790,640)" name="LED"/>
-    <comp lib="4" loc="(640,150)" name="D Flip-Flop"/>
-    <comp lib="1" loc="(110,760)" name="AND Gate">
-      <a name="inputs" val="2"/>
-    </comp>
-    <comp lib="1" loc="(260,760)" name="NOT Gate">
-      <a name="label" val="FREE0"/>
-    </comp>
-    <comp lib="1" loc="(400,570)" name="NOT Gate"/>
-    <comp lib="4" loc="(640,290)" name="D Flip-Flop"/>
-    <comp lib="1" loc="(110,410)" name="AND Gate">
-      <a name="inputs" val="2"/>
-    </comp>
-    <comp lib="1" loc="(260,410)" name="NOT Gate"/>
-    <comp lib="1" loc="(340,500)" name="OR Gate">
-      <a name="inputs" val="2"/>
-    </comp>
-    <comp lib="1" loc="(260,340)" name="NOT Gate"/>
-    <comp lib="4" loc="(200,760)" name="D Flip-Flop"/>
-    <comp lib="4" loc="(200,130)" name="D Flip-Flop"/>
-    <comp lib="5" loc="(40,870)" name="Button">
-      <a name="label" val="REQ"/>
-    </comp>
-    <comp lib="1" loc="(340,430)" name="OR Gate">
-      <a name="inputs" val="2"/>
-    </comp>
-    <comp lib="4" loc="(640,780)" name="D Flip-Flop"/>
-    <comp lib="1" loc="(110,690)" name="AND Gate">
-      <a name="inputs" val="2"/>
-    </comp>
+    <comp lib="1" loc="(260,480)" name="NOT Gate"/>
     <comp lib="1" loc="(110,620)" name="AND Gate">
       <a name="inputs" val="2"/>
     </comp>
-    <comp lib="1" loc="(110,130)" name="AND Gate">
-      <a name="inputs" val="2"/>
-    </comp>
-    <comp lib="4" loc="(200,690)" name="D Flip-Flop"/>
-    <comp lib="1" loc="(110,550)" name="AND Gate">
-      <a name="inputs" val="2"/>
-    </comp>
-    <comp lib="1" loc="(400,710)" name="NOT Gate"/>
-    <comp lib="4" loc="(640,220)" name="D Flip-Flop"/>
-    <comp lib="4" loc="(200,620)" name="D Flip-Flop"/>
-    <comp lib="1" loc="(500,220)" name="AND Gate">
-      <a name="inputs" val="3"/>
-      <a name="label" val="ASSIGN8"/>
-    </comp>
-    <comp lib="1" loc="(500,290)" name="AND Gate">
-      <a name="inputs" val="3"/>
-      <a name="label" val="ASSIGN7"/>
-    </comp>
-    <comp lib="5" loc="(1140,110)" name="LED"/>
-    <comp lib="1" loc="(500,780)" name="AND Gate">
-      <a name="inputs" val="2"/>
-      <a name="label" val="ASSIGN0"/>
-    </comp>
-    <comp lib="4" loc="(640,360)" name="D Flip-Flop"/>
-    <comp lib="1" loc="(260,550)" name="NOT Gate"/>
-    <comp lib="4" loc="(640,430)" name="D Flip-Flop"/>
     <comp lib="1" loc="(500,710)" name="AND Gate">
       <a name="inputs" val="3"/>
       <a name="label" val="ASSIGN1"/>
     </comp>
-    <comp lib="1" loc="(260,200)" name="NOT Gate"/>
+    <comp lib="1" loc="(260,130)" name="NOT Gate">
+      <a name="label" val="FREE9"/>
+    </comp>
+    <comp lib="1" loc="(260,270)" name="NOT Gate"/>
+    <comp lib="1" loc="(260,620)" name="NOT Gate"/>
+    <comp lib="1" loc="(110,480)" name="AND Gate">
+      <a name="inputs" val="2"/>
+    </comp>
+    <comp lib="4" loc="(200,130)" name="D Flip-Flop">
+      <a name="label" val="Room 9"/>
+    </comp>
+    <comp lib="1" loc="(1090,110)" name="NOT Gate"/>
+    <comp lib="1" loc="(340,500)" name="OR Gate">
+      <a name="inputs" val="2"/>
+    </comp>
+    <comp lib="1" loc="(400,570)" name="NOT Gate"/>
+    <comp lib="1" loc="(500,220)" name="AND Gate">
+      <a name="inputs" val="3"/>
+      <a name="label" val="ASSIGN8"/>
+    </comp>
+    <comp lib="1" loc="(340,360)" name="OR Gate">
+      <a name="inputs" val="2"/>
+    </comp>
+    <comp lib="5" loc="(790,430)" name="LED"/>
+    <comp lib="4" loc="(200,550)" name="D Flip-Flop"/>
+    <comp lib="1" loc="(340,570)" name="OR Gate">
+      <a name="inputs" val="2"/>
+    </comp>
+    <comp lib="1" loc="(260,550)" name="NOT Gate"/>
+    <comp lib="1" loc="(400,430)" name="NOT Gate"/>
+    <comp lib="1" loc="(340,430)" name="OR Gate">
+      <a name="inputs" val="2"/>
+    </comp>
+    <comp lib="5" loc="(1140,110)" name="LED"/>
     <comp lib="1" loc="(110,340)" name="AND Gate">
       <a name="inputs" val="2"/>
     </comp>
-    <comp lib="1" loc="(260,690)" name="NOT Gate"/>
-    <comp lib="4" loc="(640,500)" name="D Flip-Flop"/>
-    <comp lib="1" loc="(110,200)" name="AND Gate">
+    <comp lib="4" loc="(200,340)" name="D Flip-Flop"/>
+    <comp lib="5" loc="(790,290)" name="LED"/>
+    <comp lib="4" loc="(640,290)" name="D Flip-Flop"/>
+    <comp lib="1" loc="(110,410)" name="AND Gate">
       <a name="inputs" val="2"/>
     </comp>
-    <comp lib="1" loc="(400,500)" name="NOT Gate"/>
-    <comp lib="1" loc="(400,640)" name="NOT Gate"/>
-    <comp lib="1" loc="(500,150)" name="AND Gate">
-      <a name="inputs" val="3"/>
-      <a name="label" val="ASSIGN9"/>
+    <comp lib="5" loc="(790,150)" name="LED"/>
+    <comp lib="1" loc="(260,340)" name="NOT Gate"/>
+    <comp lib="1" loc="(340,220)" name="OR Gate">
+      <a name="inputs" val="2"/>
     </comp>
+    <comp lib="5" loc="(40,870)" name="Button">
+      <a name="label" val="REQ"/>
+    </comp>
+    <comp lib="4" loc="(200,690)" name="D Flip-Flop"/>
+    <comp lib="1" loc="(400,640)" name="NOT Gate"/>
+    <comp lib="4" loc="(200,410)" name="D Flip-Flop"/>
+    <comp lib="1" loc="(400,290)" name="NOT Gate"/>
+    <comp lib="5" loc="(790,710)" name="LED"/>
+    <comp lib="1" loc="(340,710)" name="OR Gate">
+      <a name="inputs" val="2"/>
+    </comp>
+    <comp lib="1" loc="(260,410)" name="NOT Gate"/>
+    <comp lib="1" loc="(110,760)" name="AND Gate">
+      <a name="inputs" val="2"/>
+    </comp>
+    <comp lib="4" loc="(640,220)" name="D Flip-Flop"/>
+    <comp lib="4" loc="(640,500)" name="D Flip-Flop"/>
     <comp lib="1" loc="(500,640)" name="AND Gate">
       <a name="inputs" val="3"/>
       <a name="label" val="ASSIGN2"/>
     </comp>
-    <comp lib="4" loc="(200,340)" name="D Flip-Flop"/>
-    <comp lib="4" loc="(200,480)" name="D Flip-Flop"/>
-    <comp lib="5" loc="(790,430)" name="LED"/>
-    <comp lib="1" loc="(340,220)" name="OR Gate">
+    <comp lib="4" loc="(640,360)" name="D Flip-Flop"/>
+    <comp lib="1" loc="(400,500)" name="NOT Gate"/>
+    <comp lib="4" loc="(200,760)" name="D Flip-Flop">
+      <a name="label" val="Room 0"/>
+    </comp>
+    <comp lib="1" loc="(110,690)" name="AND Gate">
       <a name="inputs" val="2"/>
     </comp>
-    <comp lib="1" loc="(260,620)" name="NOT Gate"/>
-    <comp lib="1" loc="(260,270)" name="NOT Gate"/>
+    <comp lib="1" loc="(500,360)" name="AND Gate">
+      <a name="inputs" val="3"/>
+      <a name="label" val="ASSIGN6"/>
+    </comp>
+    <comp lib="5" loc="(790,220)" name="LED"/>
+    <comp lib="1" loc="(340,290)" name="OR Gate">
+      <a name="inputs" val="2"/>
+    </comp>
+    <comp lib="4" loc="(640,570)" name="D Flip-Flop"/>
+    <comp lib="1" loc="(110,130)" name="AND Gate">
+      <a name="inputs" val="2"/>
+    </comp>
+    <comp lib="5" loc="(790,780)" name="LED"/>
+    <comp lib="4" loc="(200,270)" name="D Flip-Flop"/>
+    <comp lib="4" loc="(640,780)" name="D Flip-Flop">
+      <a name="label" val="Retain 0"/>
+    </comp>
+    <comp lib="4" loc="(640,150)" name="D Flip-Flop">
+      <a name="label" val="Retain 9"/>
+    </comp>
+    <comp lib="5" loc="(790,360)" name="LED"/>
+    <comp lib="1" loc="(260,690)" name="NOT Gate"/>
+    <comp lib="1" loc="(400,710)" name="NOT Gate"/>
+    <comp lib="4" loc="(200,480)" name="D Flip-Flop"/>
+    <comp lib="1" loc="(500,150)" name="AND Gate">
+      <a name="inputs" val="3"/>
+      <a name="label" val="ASSIGN9"/>
+    </comp>
+    <comp lib="1" loc="(260,200)" name="NOT Gate"/>
+    <comp lib="1" loc="(110,550)" name="AND Gate">
+      <a name="inputs" val="2"/>
+    </comp>
+    <comp lib="4" loc="(200,620)" name="D Flip-Flop"/>
+    <comp lib="1" loc="(340,640)" name="OR Gate">
+      <a name="inputs" val="2"/>
+    </comp>
     <comp lib="4" loc="(200,200)" name="D Flip-Flop"/>
-    <comp lib="5" loc="(790,710)" name="LED"/>
-    <comp lib="1" loc="(400,430)" name="NOT Gate"/>
+    <comp lib="1" loc="(500,430)" name="AND Gate">
+      <a name="inputs" val="3"/>
+      <a name="label" val="ASSIGN5"/>
+    </comp>
+    <comp lib="4" loc="(640,710)" name="D Flip-Flop"/>
+    <comp lib="5" loc="(790,500)" name="LED"/>
+    <comp lib="1" loc="(260,760)" name="NOT Gate">
+      <a name="label" val="FREE0"/>
+    </comp>
+    <comp lib="1" loc="(500,570)" name="AND Gate">
+      <a name="inputs" val="3"/>
+      <a name="label" val="ASSIGN3"/>
+    </comp>
+    <comp lib="1" loc="(500,780)" name="AND Gate">
+      <a name="inputs" val="2"/>
+      <a name="label" val="ASSIGN0"/>
+    </comp>
+    <comp lib="5" loc="(790,640)" name="LED"/>
+    <comp lib="1" loc="(500,290)" name="AND Gate">
+      <a name="inputs" val="3"/>
+      <a name="label" val="ASSIGN7"/>
+    </comp>
+    <comp lib="1" loc="(110,270)" name="AND Gate">
+      <a name="inputs" val="2"/>
+    </comp>
+    <comp lib="4" loc="(640,430)" name="D Flip-Flop"/>
+    <comp lib="1" loc="(400,220)" name="NOT Gate"/>
+    <comp lib="1" loc="(970,110)" name="OR Gate">
+      <a name="inputs" val="10"/>
+    </comp>
+    <comp lib="5" loc="(790,570)" name="LED"/>
+    <comp lib="4" loc="(640,640)" name="D Flip-Flop"/>
+    <comp lib="1" loc="(110,200)" name="AND Gate">
+      <a name="inputs" val="2"/>
+    </comp>
   </circuit>
 </project>
